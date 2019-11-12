@@ -2,11 +2,12 @@
 调用新浪微博API实现每天自动发天气、名言加配图等微博动态，并得到发送状态的微信提醒。
 
 
+
 ### 演示
 
 我的微博 AlkeySheng  [weibo.com/2351446567](https://weibo.com/2351446567)
 
-![alkeysheng weibo](https://github.com/AlkeySheng/weibosayhi/blob/master/Demo.png?raw=true)
+![alkeysheng weibo](https://github.com/AlkeySheng/weibosayhi/blob/master/Demo.jpg?raw=true)
 
 (居然还涨粉啦ｈｈｈｈｈ)
 
@@ -37,9 +38,11 @@ python3 确保已安装 json, urllib, requests库
    50 7 * * * python3 ~/weibosayhi/goodmorning.py
    ```
 
-   自行替换执行时间和文件实际保存路径 　`Windows`用户自谋多福吧
-   
-   
-   ### 向世界Say Hi
+   自行替换定时执行时间和文件实际保存路径 　`Windows`用户自求多福吧
 
-   
+
+
+
+
+
+### 向世界Ｓａｙ　Ｈｉ
