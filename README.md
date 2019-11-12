@@ -1,13 +1,12 @@
 # weibosayhi
 调用新浪微博API实现每天自动发天气、名言加配图等微博动态，并得到发送状态的微信提醒。
 
-[TOC]
 
 ### 演示
 
 我的微博 AlkeySheng  [weibo.com/2351446567](https://weibo.com/2351446567)
 
-![alkeysheng weibo](https://github.com/AlkeySheng/weibosayhi/blob/master/TIM%E5%9B%BE%E7%89%8720191112110628.jpg?raw=true)
+![alkeysheng weibo](https://github.com/AlkeySheng/weibosayhi/blob/master/Demo.png?raw=true)
 
 (居然还涨粉啦ｈｈｈｈｈ)
 
@@ -23,7 +22,7 @@
 
 ### 使用
 
-python3 确保安装 json, urllib, requests库
+python3 确保已安装 json, urllib, requests库
 
 1. `git clone` 本项目并打开`weibo.py`文件，填入`token`,`key`,`SCKEY(非必要)`，保存并退出
 
@@ -38,6 +37,9 @@ python3 确保安装 json, urllib, requests库
    50 7 * * * python3 ~/weibosayhi/goodmorning.py
    ```
 
-   自行替换执行时间和文件实际保存路径 　`Windows`用户自求多福
+   自行替换执行时间和文件实际保存路径 　`Windows`用户自谋多福吧
+   
+   
+   ### 向世界Say Hi
 
    
