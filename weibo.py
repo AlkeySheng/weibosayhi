@@ -1,4 +1,10 @@
 # coding=UTF-8
+"""
+Website https://2017.work
+Github  https://github.com/AlkeySheng
+AlkeySheng
+"""
+
 import json,urllib
 import requests
 
