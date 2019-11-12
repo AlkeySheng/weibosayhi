@@ -48,4 +48,4 @@ python3 确保已安装 json, urllib, requests库
 ## 向世界Ｓａｙ　Ｈｉ
 
 
-### [闻鲸鲤的故事2017.work](https://2017.work)
+### [闻鲸鲤的故事_2017.work](https://2017.work)
